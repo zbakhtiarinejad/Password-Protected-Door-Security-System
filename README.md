@@ -1,6 +1,7 @@
 # Password-Protected-Door-Security-System
 
 This system secures access by requiring a valid password entry before actuating a simulated door lock. It integrates user input, visual status prompts, audio alerts, and mechanical actuation into a single microcontroller workflow.
+!!Screenshot 2026-11-12 163202.png
 
 ## How It Works
 
